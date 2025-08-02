@@ -8,7 +8,7 @@
 
 La création des utilisateurs se fait depuis la [page d'administration d'atmosphère](https://atmosphere-chartres.fr/admin/). Une fois sur cette page, faites défiler jusqu'à la section **"Utilisateurs"**, puis cliquez sur le bouton **"Créer un profil"**.
 
-![Bouton "Créer un profil"](/images/updateuser.png)
+![Bouton "Créer un profil"](../images/updateuser.png)
 
 Vous serez redirigé vers un formulaire à remplir entièrement pour créer un nouvel utilisateur.
 
@@ -23,7 +23,7 @@ Vous serez redirigé vers un formulaire à remplir entièrement pour créer un n
 
 Une fois le formulaire complété, cliquez sur "Créer le profil" pour finaliser la création.
 
-![coche verte](/images/add_profile.png)
+![coche verte](../images/add_profile.png)
 
 Le champ "Liens" permet d’ajouter des liens associés à l’utilisateur :
 
@@ -31,6 +31,6 @@ Le champ "Liens" permet d’ajouter des liens associés à l’utilisateur :
 - Le **bouton rouge** à le supprimer
 - Le **bouton vert** à en ajouter un nouveau
 
-![bouton liens](/images/links.png)
+![bouton liens](../images/links.png)
 
 Vous pouvez ajouter autant de liens que nécessaire.

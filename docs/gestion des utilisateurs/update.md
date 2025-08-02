@@ -8,7 +8,7 @@
 
 La modifications des utilisateurs se fait depuis la page d'[administration d'atmosphère](https://atmosphere-chartres.fr/admin/). Une fois sur cette page, faites défiler vers le bas jusqu'à la section "**Utilisateurs**", puis cliquez sur le nom de l’utilisateur que vous souhaitez modifier.
 
-![Modification profil boutton](/images/userbutton.png)
+![Modification profil boutton](../images/userbutton.png)
 
 Vous accéderez à un formulaire déjà rempli avec les informations actuelles de l'utilisateur.
 
@@ -16,7 +16,7 @@ Vous accéderez à un formulaire déjà rempli avec les informations actuelles d
 
 Tous les champs visibles sur cette page peuvent être modifiés. Une fois vos modifications faites, une **coche verte** apparaît à la fin de chaque champ modifié.
 
-![coche verte](/images/coche_verte.png)
+![coche verte](../images/coche_verte.png)
 
 Cliquez sur cette coche pour valider la modification. Si la coche se met à charger brièvement (cercle en rotation) puis revient à son état initial, cela signifie que la mise à jour a bien été enregistrée.
 
@@ -30,4 +30,4 @@ Le champ "Liens" permet de gérer les liens associés à l'utilisateur.
 
 Vous pouvez ajouter autant de liens que nécessaire.
 
-![bouton liens](/images/links.png)
+![bouton liens](../images/links.png)
