@@ -1,0 +1,11 @@
+site_name: Atmospère Documentation
+theme:
+  name: material
+  language: fr
+  favicon: images/favicon.png
+  logo: assets/logo.png
+  features:
+    - navigation.instant
+
+markdown_extensions:
+  - admonition
