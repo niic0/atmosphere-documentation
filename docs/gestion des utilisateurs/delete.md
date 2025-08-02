@@ -1,4 +1,4 @@
-# Modification
+# Suppression d'un utilisateur
 
 !!! warning "super-admin only !"
 
