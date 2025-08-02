@@ -1,8 +1,8 @@
 # Création d'un utilisateur
 
-!!! warning "super-admin only !"
+!!! warning "admin only !"
 
-    Cette documentation est destinée uniquement aux super-administrateurs du site.
+    Cette documentation est destinée uniquement aux administrateurs du site seulement.
 
 ## Accéder à la page d’ajout d’un utilisateur
 
@@ -14,7 +14,7 @@ Vous serez redirigé vers un formulaire à remplir entièrement pour créer un n
 
 ## Remplir les informations de l'utilisateur / du thérapeute
 
-**Tous les champs marqués d’un astérisque (*) sont obligatoires et doivent être complétés.**
+**Tous les champs marqués d’un astérisque (*) sont obligatoires et doivent être complétés. De plus, l'adresse mail ne doit pas être utilisé par un autre utilisateur.**
 
 !!! Identifiants de connexion
 

@@ -1,8 +1,8 @@
 # Modification d'un utilisateur
 
-!!! warning "super-admin only !"
+!!! warning "admin only !"
 
-    Cette documentation est destinée uniquement aux super-administrateurs du site.
+    Cette documentation est destinée uniquement aux administrateurs du site seulement.
 
 ## Accéder à la page de modification d’un utilisateur
 
